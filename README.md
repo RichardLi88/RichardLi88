@@ -3,7 +3,6 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>Full stack web app</h3>
-[Coaching Website](https://github.com/RichardLi88/coaching-website)
 <p>Personal project built to assist in scheduling clients for Table Tennis Coaching</p>
 <p>Created using MongoDB, Express, React, Node.js, Mantine UI</p>
 <ul>
@@ -12,6 +11,7 @@
 </ul>
 <p>Demonstration Below:</p>
 [Coaching Website demonstration](https://youtu.be/PhBOM6Y-sZ8)
+[GitHub Link](https://github.com/RichardLi88/coaching-website)
 <h3>Waypoint</h3>
 <p>A team project built in 2024 using the React with Typescript and Tailwind CSS, Express and NodeJs, MongoDB<p>
 <p>Waypoint is a project management tool which implements some of the features that Jira possesses</p>
@@ -25,6 +25,7 @@
 </ul>
 <p>Demonstration below:</p>
 [Waypoint Demonstration](https://youtu.be/i_3eXilZVqg)
+[GitHub Link](https://github.com/RichardLi88/Waypoint)
 <h3>HTML/CSS practice</h3>
 [Youtube Layout Clone](https://github.com/RichardLi88/WebDev/tree/main/youtube_clone)
 <h3>Backend JWT authentication practice</h3>
