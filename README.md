@@ -2,16 +2,31 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full stack web app</b>
-  - [Table Tennis Website](https://github.com/RichardLi88/coaching-website)
-    - created using MongoDB, Express, React, Node.js, Mantine UI
-    - features login system with JWT authentication
-    - Interacts with 3rd party API's such as Youtube Data API and Nodemailer
-  - [Waypoint](https://github.com/RichardLi88/Waypoint)
-    - Project management tool built for agile teams
-    - group project with a team of 6, and was built using agile practices during 3 sprints.  
-- <b>HTML/CSS practice</b>
-  - [Youtube Layout Clone](https://github.com/RichardLi88/WebDev/tree/main/youtube_clone)
-- <b>Backend JWT authentication practice</b>
-  - [JWT backend CRUD](https://github.com/RichardLi88/WebDev/tree/main/jwt_practice)
+<h3>Full stack web app</h3>
+[Coaching Website](https://github.com/RichardLi88/coaching-website)
+<p>Personal project built to assist in scheduling clients for Table Tennis Coaching</p>
+<p>Created using MongoDB, Express, React, Node.js, Mantine UI</p>
+<ul>
+  <li>features login system with JWT authentication</li>
+  <li>Interacts with 3rd party API's such as Youtube Data API and Nodemailer</li>
+</ul>
+<p>Demonstration Below:</p>
+[Coaching Website demonstration](https://youtu.be/PhBOM6Y-sZ8)
+<h3>Waypoint</h3>
+<p>A team project built in 2024 using the React with Typescript and Tailwind CSS, Express and NodeJs, MongoDB<p>
+<p>Waypoint is a project management tool which implements some of the features that Jira possesses</p>
+<p>Features of this website include</p>
+<ul>
+  <li>Authentication with JWT</li>
+  <li>Role-based access (admin views different content and has extra privileges)</li>
+  <li>Kanban board with drag and drop feature</li>
+  <li>Using ChartJs to display productivity</li>
+  <li>Able to log tasks and view remaining story points in Sprint</li>
+</ul>
+<p>Demonstration below:</p>
+[Waypoint Demonstration](https://youtu.be/i_3eXilZVqg)
+<h3>HTML/CSS practice</h3>
+[Youtube Layout Clone](https://github.com/RichardLi88/WebDev/tree/main/youtube_clone)
+<h3>Backend JWT authentication practice</h3>
+[JWT backend CRUD](https://github.com/RichardLi88/WebDev/tree/main/jwt_practice)
 
