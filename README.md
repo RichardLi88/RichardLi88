@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<h3>Full stack web app</h3>
+<h3>Coaching Scheduler</h3>
 <p>Personal project built to assist in scheduling clients for Table Tennis Coaching</p>
 <p>Created using MongoDB, Express, React, Node.js, Mantine UI</p>
 <ul>
