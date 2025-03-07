@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full stack web app</b>
-  - [Table Tennis Website](https://github.com/RichardLi88/WebDev/tree/main/richard_table_tennis)
+  - [Table Tennis Website](https://github.com/RichardLi88/coaching-website)
     - created using MongoDB, Express, React, Node.js, Mantine UI
     - features login system with JWT authentication
     - Interacts with 3rd party API's such as Youtube Data API and Nodemailer
