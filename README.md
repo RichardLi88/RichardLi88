@@ -1,33 +1,55 @@
-<h1>Hi, I'm Richard! <br/><p>Current university student studying Software Engineering</p>
+# Hi, I'm Richard! 👋  
+🎓 **Current university student studying Software Engineering**  
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Software Development Projects  
 
-<h3>Coaching Scheduler</h3>
-<p>Personal project built to assist in scheduling clients for Table Tennis Coaching</p>
-<p>Created using MongoDB, Express, React, Node.js, Mantine UI</p>
-<ul>
-  <li>features login system with JWT authentication</li>
-  <li>Interacts with 3rd party API's such as Youtube Data API and Nodemailer</li>
-</ul>
-<p>Demonstration Below:</p>
-[Coaching Website demonstration](https://youtu.be/PhBOM6Y-sZ8)
-[GitHub Link](https://github.com/RichardLi88/coaching-website)
-<h3>Waypoint</h3>
-<p>A team project built in 2024 using the React with Typescript and Tailwind CSS, Express and NodeJs, MongoDB<p>
-<p>Waypoint is a project management tool which implements some of the features that Jira possesses</p>
-<p>Features of this website include</p>
-<ul>
-  <li>Authentication with JWT</li>
-  <li>Role-based access (admin views different content and has extra privileges)</li>
-  <li>Kanban board with drag and drop feature</li>
-  <li>Using ChartJs to display productivity</li>
-  <li>Able to log tasks and view remaining story points in Sprint</li>
-</ul>
-<p>Demonstration below:</p>
-[Waypoint Demonstration](https://youtu.be/i_3eXilZVqg)
-[GitHub Link](https://github.com/RichardLi88/Waypoint)
-<h3>HTML/CSS practice</h3>
-[Youtube Layout Clone](https://github.com/RichardLi88/WebDev/tree/main/youtube_clone)
-<h3>Backend JWT authentication practice</h3>
-[JWT backend CRUD](https://github.com/RichardLi88/WebDev/tree/main/jwt_practice)
+### 🏓 Coaching Scheduler  
+🚀 **Personal project to assist in scheduling clients for Table Tennis Coaching**  
+🛠️ **Tech Stack:** MongoDB, Express, React, Node.js, Mantine UI  
 
+🔹 **Features:**  
+- 🔑 Login system with **JWT authentication**  
+- 🔗 Interacts with **3rd party APIs** such as **YouTube Data API** & **Nodemailer**  
+
+🎥 **Demonstration Below:**  
+📺 [Coaching Website Demonstration](https://youtu.be/PhBOM6Y-sZ8)  
+💻 [GitHub Link](https://github.com/RichardLi88/coaching-website)  
+
+---
+
+### 🚀 Waypoint  
+🛠️ **Team project using React (TypeScript & Tailwind CSS), Express, Node.js, MongoDB**  
+📌 **A project management tool inspired by Jira**  
+
+🔹 **Features:**  
+- 🔑 **Authentication with JWT**  
+- 👤 **Role-based access** (Admins see different content & have extra privileges)  
+- 📊 **Kanban board** with drag-and-drop feature  
+- 📈 **Chart.js integration** for productivity insights  
+- 📝 **Task logging** with remaining story points in Sprint  
+
+🎥 **Demonstration Below:**  
+📺 [Waypoint Demonstration](https://youtu.be/i_3eXilZVqg)  
+💻 [GitHub Link](https://github.com/RichardLi88/Waypoint)  
+
+---
+
+### 🎯 Allocate++  
+🏆 **Built for the Atlassian X Unithack 2025 Hackathon!**  
+🎨 **A modern redesign of Allocate+ used by universities**  
+
+🔹 **Features:**  
+- ⚙️ **Auto-generator button** to automatically create schedules based on available classes & filters  
+- ✨ **Improved UI for a better user experience**  
+
+🎥 **Demonstration Below:**  
+📺 [Allocate++ YouTube Video](https://youtu.be/aVmYLGQRIVA)  
+💻 [GitHub Link](https://github.com/RichardLi88/unihack-2025)  
+
+---
+
+### 🌐 HTML/CSS Practice  
+📺 [YouTube Layout Clone](https://github.com/RichardLi88/WebDev/tree/main/youtube_clone)  
+
+### 🔐 Backend JWT Authentication Practice  
+🔑 [JWT Backend CRUD](https://github.com/RichardLi88/WebDev/tree/main/jwt_practice)  
