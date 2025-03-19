@@ -40,11 +40,11 @@
 
 🔹 **Features:**  
 - ⚙️ **Auto-generator button** to automatically create schedules based on available classes & filters  
-- ✨ **Improved UI for a better user experience**  
+- ✨ **Improved UI for a better user experience**
+- 👥 **Team Project** collaborated on this hackathon with friends
 
 🎥 **Demonstration Below:**  
 📺 [Allocate++ YouTube Video](https://youtu.be/aVmYLGQRIVA)  
-💻 [GitHub Link](https://github.com/RichardLi88/unihack-2025)  
 
 ---
 
